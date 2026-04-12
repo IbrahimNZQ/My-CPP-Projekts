@@ -1,0 +1,9 @@
+# Ignoriere ausführbare Dateien
+*.exe
+*.out
+
+# Ignoriere Build-Ordner
+build/
+Debug/
+Release/
+x64/

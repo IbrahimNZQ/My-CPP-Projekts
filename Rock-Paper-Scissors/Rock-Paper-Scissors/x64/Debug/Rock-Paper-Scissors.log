@@ -1,0 +1,3 @@
+﻿  Rock-Paper-Scissors.cpp
+D:\CPP\Projects\Rock-Paper-Scissors\Rock-Paper-Scissors\Rock-Paper-Scissors.cpp(97,1): warning C4715: "whoWonTheRound": Nicht alle Codepfade geben einen Wert zurück.
+  Rock-Paper-Scissors.vcxproj -> D:\CPP\Projects\Rock-Paper-Scissors\x64\Debug\Rock-Paper-Scissors.exe

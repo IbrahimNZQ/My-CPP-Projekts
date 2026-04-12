@@ -1,0 +1,4 @@
+﻿  Math Quiz.cpp
+D:\CPP\Programming Advices\Projects\Math Quiz\Math Quiz\Math Quiz.cpp(129,1): warning C4715: "simpleCalculator": Nicht alle Codepfade geben einen Wert zurück.
+D:\CPP\Programming Advices\Projects\Math Quiz\Math Quiz\Math Quiz.cpp(162,1): warning C4715: "generateQuestion": Nicht alle Codepfade geben einen Wert zurück.
+  Math Quiz.vcxproj -> D:\CPP\Programming Advices\Projects\Math Quiz\x64\Debug\Math Quiz.exe

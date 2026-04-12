@@ -1,0 +1,7 @@
+﻿  Code wird generiert.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+D:\CPP\Programming Advices\Projects\Math Quiz\Math Quiz\Math Quiz.cpp(129): warning C4715: "simpleCalculator": Nicht alle Codepfade geben einen Wert zurück.
+D:\CPP\Programming Advices\Projects\Math Quiz\Math Quiz\Math Quiz.cpp(162): warning C4715: "generateQuestion": Nicht alle Codepfade geben einen Wert zurück.
+  All 139 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  Math Quiz.vcxproj -> D:\CPP\Programming Advices\Projects\Math Quiz\x64\Release\Math Quiz.exe
